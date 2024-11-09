@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    position: fixed;
+    background-color: aqua;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+
+}
+.child1{
+    display: flex;
+    gap: 10px;
+}
